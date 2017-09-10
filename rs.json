@@ -1,7 +1,7 @@
 {
   "author": "MysticJump",
   "colors": {
-    "background": "https://i.imgur.com/N82wzhY.png",
+    "background": "https://cdn.radiant.dj/rcs/bg/12.png",
     "chat": {
       "admin": "#40E0D0",
       "ambassador": "#0000CD",
@@ -20,7 +20,7 @@
     "rule": []
   },
   "images": {
-    "background": "https://i.imgur.com/N82wzhY.png",
+    "background": "https://cdn.radiant.dj/rcs/bg/12.png",
     "booth": "",
     "icons": {
       "admin": "",
